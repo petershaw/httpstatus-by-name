@@ -1,0 +1,25 @@
+{
+  "name": "httpstatus-by-name",
+  "version": "1.0.0",
+  "description": "Get HTTP-Status number by name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/petershaw/httpstatus-by-name.git"
+  },
+  "keywords": [
+    "http",
+    "response",
+    "status",
+    "codes"
+  ],
+  "author": "Peter Shaw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/petershaw/httpstatus-by-name/issues"
+  },
+  "homepage": "https://github.com/petershaw/httpstatus-by-name"
+}
